@@ -1,0 +1,7 @@
+C:\work\code\DaalDb\DaalLib\bin\Debug\DaalLib.dll
+C:\work\code\DaalDb\DaalLib\bin\Debug\DaalLib.pdb
+C:\work\code\DaalDb\DaalLib\bin\Debug\ThinkatronicUtils.dll
+C:\work\code\DaalDb\DaalLib\bin\Debug\ThinkatronicUtils.pdb
+C:\work\code\DaalDb\DaalLib\obj\Debug\ResolveAssemblyReference.cache
+C:\work\code\DaalDb\DaalLib\obj\Debug\DaalLib.dll
+C:\work\code\DaalDb\DaalLib\obj\Debug\DaalLib.pdb
